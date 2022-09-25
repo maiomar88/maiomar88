@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maiomar88
+- 👋 Hi, I’m Mai Omar
 - 👀 I’m interested in IC Design
 - 🌱 I’m currently learning Cmomunication and Electronics Engeneering
 - 💞️ I’m looking to collaborate on  internships 
