@@ -15,7 +15,7 @@
 - Apply Biopsy-Data Model and test it using VIVADO-HLS on Zynq UltraScale.
 
 - UART Implementation on Spartan-6 FPGA.
-- 
+
 - Design Pipeline 32-MIPS Micro-Processor From Scratch.
 
 - Digitally Controlled Variable Gain Amplifier (VGA).
@@ -24,13 +24,13 @@
   
 - Design of two-stage Miller OTA.
 
--Implementation of 3x3 Matrix Inversion using QR-Decomposition.
+- Implementation of 3x3 Matrix Inversion using QR-Decomposition.
 
--Design  of  DMA with 2 memory buses(Tx,Rx) and ctrl bus.
+- Design  of  DMA with 2 memory buses(Tx,Rx) and ctrl bus.
 
--Design of  FIR Digital Filter using direct-form.
+- Design of  FIR Digital Filter using direct-form.
 
--FPGA based of  Custom PRBS-15 till bitstream
+- FPGA based of  Custom PRBS-15 till bitstream
 
 
  
