@@ -2,7 +2,7 @@
 - A self-motivated undergraduate ECE student , pursuing a career in the Digital Design and
     ASIC field and passionate to learn more about what this field has to offer.
 - 🌱 I’m currently learning Cmomunication and Electronics Engeneering
-- 💞️ I'm V-Head in Electronics Committee at IEEE-CUSB 
+- 💞️ Former Head in Electronics Committee at IEEE-CUSB 
 - 📫 How to reach me maiomar2442001@gmail.com | maiomar@ieee.org
 
 # my projects 
